@@ -1,0 +1,46 @@
+Any,ERA,Codi municipi IDESCAT,Municipi,Codi comarca IDESCAT,Comarca,Entitat gestora  1,Entitat gestora  2,Ús 1,Ús 2,Ús 3,Ús 4,Ús 5,Cabal disseny m3/dia,Posada en servei,Tractament 1,Tractament 2,Tractament 3,Tractament 4,Tractament 5,Tractament 6,Tractament 7,Volum aigua reutilitzada Ús agrícola (m3),Volum aigua reutilitzada Ús ambiental (m3),"Volum aigua reutilitzada Ús urbà 
+(m3)",Volum aigua reutilitzada Ús recreatiu (m3),Volum aigua reutilitzada Ús industrial (m3),Volum total aigua reutilitzada (m3)
+2022,GAVÀ/VILADECANS,080898,Gavà,11,Baix Llobregat,Àrea Metropolitana de Barcelona,,Agrícola,,,,,43000,2006,MBR,Cl,,,,,,4675627,0,0,0,0,4675627
+2022,GRANOLLERS,080961,Granollers,41,Vallès Oriental,Ajuntament de Granollers,,Ambiental,Municipal,,,,200,2012,Aiguamolls construïts,Filtració,Cl,,,,,0,103153,17651,0,0,120804
+2022,"PRAT DE LLOBREGAT, EL",081691,"Prat de Llobregat, el",11,Baix Llobregat,Àrea Metropolitana de Barcelona,,Agrícola,Ambiental,Industrial,,,302400,2005,FQ,Filtració,UV,UF,OI,Cl,,146880,43423652,0,0,3098898,48290533
+2022,SABADELL/RIU SEC,081878,Sabadell,40,Vallès Occidental,Ajuntament de Sabadell,,Municipal,,,,,4000,2011,MBR,UV,Cl,,,,,0,0,26864,0,0,26864
+2022,SANT FELIU DE LLOBREGAT,082114,Sant Feliu de Llobregat,11,Baix Llobregat,Àrea Metropolitana de Barcelona,,Agrícola,Recreatiu,,,,72000,2005,Filtració,Cl,,,,,,292992,0,0,139064,0,432056
+2022,BLANES,170237,Blanes,34,Selva,Consorci d'Aigües Costa Brava Girona,,Ambiental,,,,,15000,2002,FQ (Coag-Floc-Decant),Filtració,UV,Cl,,,,0,0,0,0,0,0
+2022,CADAQUÉS,170329,Cadaqués,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Industrial,,,,,600,2001,FQ (Caog-Floc),Filtració,UV,Cl,,,,0,0,0,0,9794,9794
+2022,EMPURIABRAVA,170470,Castelló d'Empúries,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Ambiental,Recreatiu,,,,8750,1998,Aiguamolls construïts,,,,,,,0,742455,0,6420,0,748875
+2022,CASTELL-PLATJA D'ARO,170486,Castell-Platja d'Aro,10,Baix Empordà,Consorci d'Aigües Costa Brava Girona,,Agrícola,Municipal,Recreatiu,,,14400,1998,Coagulació,Filtració,UV,Cl,,,,237197,0,257,554518,0,791972
+2022,COLERA,170545,Colera,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Agrícola,Industrial,,,,360,2001,FQ (Coag-Floc),Filtració,UV,Cl,,,,5522,0,0,0,2053,7575
+2022,"ESCALA, L'",170622,"Escala, l'",02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Ambiental,,,,,6000,2014,FQ (Coag-Floc),Filtració,UV,Cl,,,,0,763146,0,0,0,763146
+2022,LLANÇÀ,170926,Llançà,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Ambiental,Municipal,Industrial,,,600,2008,FQ (Coag-Floc),Filtració,UV,Cl,,,,0,10418,15,0,10892,21325
+2022,LLORET DE MAR,170950,Lloret de mar,34,Selva,Consorci d'Aigües Costa Brava Girona,,Agrícola,Municipal,Recreatiu,,,4992,2008,FQ (Coag-Floc-Decant),Filtració,UV,Cl,,,,5367,0,18815,37966,0,62148
+2022,PALS,171241,Pals,10,Baix Empordà,Consorci d'Aigües Costa Brava Girona,,Municipal,Recreatiu,,,,6000,2000,Cl,,,,,,,0,0,264,398420,0,398684
+2022,PORTBOU,171387,Portbou,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Municipal,Industrial,,,,360,2002,FQ (Coag-Floc),Filtració,UV,Cl,,,,0,0,6487,0,3254,9741
+2022,"PORT DE LA SELVA, EL",171404,"Port de la Selva, el",02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Ambiental,Municipal,Industrial,,,600,2001,FQ (Coag-Floc),Filtració,UV,Cl,,,,0,17328,879,0,2578,20785
+2022,ROSES,171523,Roses,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Agrícola,Municipal,Industrial,,,600,2008,FQ (Coag-Floc),Filtració,UV,Cl,,,,1110,0,1435,0,8207,10752
+2022,TORROELLA DE MONTGRÍ,171997,Torroella de Montgrí,10,Baix Empordà,Consorci d'Aigües Costa Brava Girona,,Agrícola,Recreatiu,Industrial,,,24000,2004,UV,Cl,,,,,,38090,0,0,360145,22929,421164
+2022,TOSSA DE MAR,172023,Tossa de mar,34,Selva,Consorci d'Aigües Costa Brava Girona,,Municipal,Industrial,,,,840,2003,FQ (Coag-Floc-Decant),Filtració,UV,CI,,,,0,0,24564,0,5473,30037
+2022,"SELVA DEL CAMP, LA",431457,"Selva del Camp, la",08,Baix Camp,Ajuntament de la Selva del Camp,,Agrícola,,,,,360,2019,Filtració,Cl,,,,,,26000,0,0,0,0,26000
+2022,VILA-SECA/SALOU,431711,Vila-seca,36,Tarragonès,Agència Catalana de l'Aigua,,Municipal,Recreatiu,Industrial,,,16500,2006,FQ,Filtració,Cl,,,,,0,0,166440,1642860,188,1809488
+2022,VILA-SECA/SALOU INDUSTRIES,431711,Vila-seca,36,Tarragonès,Agència Catalana de l'Aigua,Aitasa,Industrial,,,,,30000,2013,FQ,Filtració,OI,CI,,,,0,0,0,0,5933061,5933061
+2023,GAVÀ/VILADECANS,080898,Gavà,11,Baix Llobregat,Àrea Metropolitana de Barcelona,,Agrícola,,,,,43000,2006,MBR,Cl,,,,,,5717009,0,818,0,15300,5733127
+2023,GRANOLLERS,080961,Granollers,41,Vallès Oriental,Ajuntament de Granollers,,Ambiental,Municipal,,,,200,2012,Aiguamolls construïts,Filtració,Cl,,,,,0,90806,35032,0,0,125838
+2023,"PRAT DE LLOBREGAT, EL",081691,"Prat de Llobregat, el",11,Baix Llobregat,Àrea Metropolitana de Barcelona,,Agrícola,Ambiental,Industrial,,,302400,2005,FQ,Filtració,UV,UF,OI,Cl,,5477563,46207151,3462,0,2951146,54639322
+2023,SABADELL/RIU SEC,081878,Sabadell,40,Vallès Occidental,Ajuntament de Sabadell,,Municipal,,,,,4000,2011,MBR,UV,Cl,,,,,0,0,51380,0,0,51380
+2023,SANT FELIU DE LLOBREGAT,082114,Sant Feliu de Llobregat,11,Baix Llobregat,Àrea Metropolitana de Barcelona,,Agrícola,Recreatiu,,,,72000,2005,Filtració,Cl,,,,,,311984,0,0,133669,227529,673182
+2023,BLANES,170237,Blanes,34,Selva,Consorci d'Aigües Costa Brava Girona,,Ambiental,,,,,15000,2002,FQ (Coag-Floc-Decant),Filtració,UV,Cl,,,,0,1292411,0,0,0,1292411
+2023,CADAQUÉS,170329,Cadaqués,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Industrial,,,,,600,2001,FQ (Caog-Floc),Filtració,UV,Cl,,,,0,0,0,0,5015,5015
+2023,EMPURIABRAVA,170470,Castelló d'Empúries,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Ambiental,Recreatiu,,,,8750,1998,Aiguamolls construïts,,,,,,,0,749070,0,8040,0,757110
+2023,CASTELL-PLATJA D'ARO,170486,"Castell d'Aro, Platja d'Aro i s'Agaró",10,Baix Empordà,Consorci d'Aigües Costa Brava Girona,,Agrícola,Municipal,Recreatiu,,,14400,1998,Coagulació,Filtració,UV,Cl,,,,275386,0,885,615251,0,891522
+2023,COLERA,170545,Colera,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Agrícola,Industrial,,,,360,2001,FQ (Coag-Floc),Filtració,UV,Cl,,,,9249,0,61,0,2053,9310
+2023,"ESCALA, L'",170622,"Escala, l'",02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Ambiental,,,,,6000,2014,FQ (Coag-Floc),Filtració,UV,Cl,,,,1232021,418149,0,0,0,1650170
+2023,LLANÇÀ,170926,Llançà,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Ambiental,Municipal,Industrial,,,600,2008,FQ (Coag-Floc),Filtració,UV,Cl,,,,0,3203,180,0,8448,11831
+2023,LLORET DE MAR,170950,Lloret de mar,34,Selva,Consorci d'Aigües Costa Brava Girona,,Agrícola,Municipal,Recreatiu,,,4992,2008,FQ (Coag-Floc-Decant),Filtració,UV,Cl,,,,5277,0,12022,41105,0,58404
+2023,PALS,171241,Pals,10,Baix Empordà,Consorci d'Aigües Costa Brava Girona,,Municipal,Recreatiu,,,,6000,2000,Cl,,,,,,,0,0,3226,368623,0,371849
+2023,PORTBOU,171387,Portbou,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Municipal,Industrial,,,,360,2002,FQ (Coag-Floc),Filtració,UV,Cl,,,,0,0,5746,0,999,6745
+2023,"PORT DE LA SELVA, EL",171404,"Port de la Selva, el",02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Ambiental,Municipal,Industrial,,,600,2001,FQ (Coag-Floc),Filtració,UV,Cl,,,,0,30804,414,0,20829,52047
+2023,ROSES,171523,Roses,02,Alt Empordà,Consorci d'Aigües Costa Brava Girona,,Agrícola,Municipal,Industrial,,,600,2008,FQ (Coag-Floc),Filtració,UV,Cl,,,,770,0,4408,0,10723,15901
+2023,TORROELLA DE MONTGRÍ,171997,Torroella de Montgrí,10,Baix Empordà,Consorci d'Aigües Costa Brava Girona,,Agrícola,Recreatiu,Industrial,,,24000,2004,UV,Cl,,,,,,0,0,0,241558,17006,258564
+2023,TOSSA DE MAR,172023,Tossa de mar,34,Selva,Consorci d'Aigües Costa Brava Girona,,Municipal,Industrial,,,,840,2003,FQ (Coag-Floc-Decant),Filtració,UV,CI,,,,0,0,22565,0,7748,30313
+2023,"SELVA DEL CAMP, LA",431457,"Selva del Camp, la",08,Baix Camp,Ajuntament de la Selva del Camp,,Agrícola,,,,,360,2019,Filtració,Cl,,,,,,59864,0,0,0,6252,66116
+2023,VILA-SECA/SALOU,431711,Vila-seca,36,Tarragonès,Agència Catalana de l'Aigua,,Municipal,Recreatiu,Industrial,,,16500,2006,FQ,Filtració,Cl,,,,,0,0,147660,1694920,188,1842768
+2023,VILA-SECA/SALOU INDUSTRIES,431711,Vila-seca,36,Tarragonès,Agència Catalana de l'Aigua,Aitasa,Industrial,,,,,30000,2013,FQ,Filtració,OI,CI,,,,0,0,0,0,5908200,5908200
