@@ -62,7 +62,7 @@ Investigate how water consumption varies across different regions in Catalonia, 
     </div>
 </div>
 
-The data gathering which all the project developing and process depends, was the most time consuming and challenging part of the project. After trying about 3 different API sources for different data (for some of them a lot of permissions and tokens were needes, and some other were too confusing in order to retrieve the data) I found the Government of Spain open data to be very useful. At some point I considered change the whole project to conduct a Time Series Analysis project but at the very end I could retrive useful and significant data.
+The data gathering which all the project developing and process depends, was the most time consuming and challenging part of the project. After trying about 3 different API sources for different data (for some of them a lot of permissions and tokens were needed, and some other were too confusing in order to retrieve the data) I found the Government of Spain open data to be very useful. At some point I considered change the whole project to conduct a Time Series Analysis project but at the very end I could retrive useful and significant data.
 
 ## Data Preparation: Cleaning, merging, and formatting the datasets for analysis
 I started with a primary dataframe cleaning (water consumption df) and standarizing the columns. I took did a first look at a heatmap of the numerical values to chech how de data correlated.
