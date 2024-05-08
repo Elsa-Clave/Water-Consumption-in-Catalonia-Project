@@ -23,7 +23,7 @@
 
 ## Introduction:
 
-**The Significance of choocing this data is addressing Urgent Environmental Concerns**
+**The Significance of choosing this data is addressing Urgent Environmental Concerns**
 The project's focus on water consumption analysis is particularly timely and critical in light of the declared Drought Emergency, aiming to contribute to efforts to mitigate the effects of water scarcity.
 
 **Defining Drought** Drought is generally defined as “a deficiency of precipitation over an extended period of time (usually a season or more), resulting in a water shortage.”
