@@ -1,10 +1,25 @@
 <h2 align="center">🌊Water Consumption Analysis in Catalonia🌊</h2> 
 <div style="text-align:center;">
+</div>
 
+<div style="text-align:center;">
 <img src="ImagesRDM/20231116_sequera.png" alt="Sharks" width="600" >
 </div>
+
 <p align="center"><i>Utilizing Government of Spain Open Data</i>
 
+## Table of contents
+- [Table of contents](#table-of-contents)
+- [Introduction:](#introduction)
+- [Initial objective: Understanding Water Consumption Dynamics](#initial-objective-understanding-water-consumption-dynamics)
+- [Data Sources:](#data-sources)
+- [Methodology:](#methodology)
+- [Data Preparation: Cleaning, merging, and formatting the datasets for analysis](#data-preparation-cleaning-merging-and-formatting-the-datasets-for-analysis)
+- [Exploratory Data Analysis: Visualization and exploration to identify patterns and correlations](#exploratory-data-analysis-visualization-and-exploration-to-identify-patterns-and-correlations)
+- [Feature Engineering: Transforming and selecting features to improve model performance](#feature-engineering-transforming-and-selecting-features-to-improve-model-performance)
+- [Preprocessing: Addressing data issues like multicollinearity and encoding categorical variables](#preprocessing-addressing-data-issues-like-multicollinearity-and-encoding-categorical-variables)
+- [Linear Regression Modelling and results interpretation:](#linear-regression-modelling-and-results-interpretation)
+ 
 
 ## Introduction:
 
