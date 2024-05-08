@@ -1,9 +1,9 @@
 <h2 align="center">🌊Water Consumption Analysis in Catalonia🌊</h2> 
-<div style="text-align:center;">
+    <div style="text-align:center;">
 </div>
 
 <div style="text-align:center;">
-<img src="ImagesRDM/20231116_sequera.png" alt="Sharks" width="600" >
+    <img src="ImagesRDM/20231116_sequera.png" alt="Sharks" width="600" >
 </div>
 
 <p align="center"><i>Utilizing Government of Spain Open Data</i>
